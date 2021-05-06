@@ -4,7 +4,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "University of Oklahoma Libraries"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "https://oklahoma.zoom.us/j/99708537080?pwd=WWhtd2VaaWpYUVJTMjZid2ZTbEVmZz09 | Meeting ID: 997 0853 7080 | Passcode: 19017429"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "https://oklahoma.zoom.us/j/99708537080?pwd=WWhtd2VaaWpYUVJTMjZid2ZTbEVmZz09"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "35.205894"        # decimal latitude of workshop venue (use https://www.latlong.net/)
